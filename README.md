@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onkar-singh
-- 👀 I’m Electrical and Electronics Engineer and time pass web app devloper
+- 👀 I’m Electrical and Electronics Engineer and timepass web app developer
 
 
 <!---
